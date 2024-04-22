@@ -1,3 +1,6 @@
+
+![CC Graphics 2024_Bootstrapping2](https://github.com/csae-coders-corner/Bootstrapped-SE-with-three-way-panels-in-Stata/assets/148211163/3e401468-2c43-4b9d-9dce-f5c0b29cdca1)
+
 # Bootstrapped-SE-with-three-way-panels-in-Stata
 Stata has excellent and flexible bootstrapping functions for cross-sectional, time series and panel data structures. However, it lacks automatic capability in dealing with three-way panel structures, that is, data structures indexed by i, j, t, where for every i there is every j and for every i, j there is every t.
 Examples of this data structure include: migration flows between countries over time, social interactions between individuals over time and trade between any unit over time. In general, this structure will often appear whenever you consider multiple dimensions. 
